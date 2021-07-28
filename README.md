@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.com/VladBaykin/todo_list.svg?branch=master)](https://travis-ci.com/VladBaykin/todo_list)
-# Проект TODO list
+# TODO list
 Это приложение - список дел. Позволяет пользователям вести список заданий. Задания сохраняются в БД. Клиент с контроллером обмениваются сообщениями в формате JSON.
 
 ### Технологии
@@ -19,3 +19,16 @@
 * Удаление заданий из списка.
 * Отметка о завершении задания.
 * Фильтр для отображения в списке только новых (невыполненных) заданий.
+
+---
+* Главная страница
+
+![ScreenShot](images/todo.PNG)
+
+* Регистрация
+
+![ScreenShot](images/signUP.PNG)
+
+* Авторизация
+
+![ScreenShot](images/signIN.PNG)
